@@ -1,5 +1,5 @@
 # DCC Leader Board
-2020/11/12 02:48
+2020/11/12 03:09
 
 1. KDH accuracy: 0.614  
 2. test accuracy: 0.237  
