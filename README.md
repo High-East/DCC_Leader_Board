@@ -1,9 +1,7 @@
 # DCC Leader Board
-2020/11/12 03:09
+2020/11/12 03:11
 
-1. KDH accuracy: 0.614  
-2. test accuracy: 0.237  
-3. DCC accuracy: 0.237  
-4. dog accuracy: 0.237  
-5. haha accuracy: 0.1  
-6. random accuracy: 0.097  
+1. DCC accuracy: 0.237  
+2. dog accuracy: 0.237  
+3. haha accuracy: 0.1  
+4. random accuracy: 0.097  
