@@ -1,4 +1,4 @@
-#DCC Leader Board
+# DCC Leader Board
 2020/11/12 02:27
 
 Team_KDH accuracy: 0.614
