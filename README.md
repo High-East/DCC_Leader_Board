@@ -6,7 +6,6 @@
 Accuracy
 1. 익명의사자_submission [0.72]  
 2. 나도한번_1_submission [0.671]  
-3. Big_Star_submission [0.318]  
-4. 익명2_submission [0.237]  
-5. ryong_submission [0.048]  
-6. BDS_2_submission [0.048]  
+3. 익명2_submission [0.237]  
+4. ryong_submission [0.048]  
+5. BDS_2_submission [0.048]  
